@@ -1,2 +1,2 @@
-# BigDevSoon-music-player
-Project Music Player of BigDevSoon
+# BigDevSoon Music Player
+Project Music Player of BigDevSoon (https://app.bigdevsoon.me/projects/music-player/)
